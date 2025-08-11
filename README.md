@@ -13,7 +13,7 @@ Esta carpeta contiene **2 scripts esenciales** para automatizar la creación del
 
 ### **Librerías Principales**
 - **`requests`** - Cliente HTTP para consumir APIs REST (Google Maps Static API)
-- **`PIL (Pillow)`** - Procesamiento y manipulación de imágenes satelitales
+- **`PIL (Pillow)`** - Procesamiento y manipulación de imágenes
 - **`json`** - Manejo de archivos de configuración y metadatos
 - **`os`** - Operaciones del sistema de archivos y directorios
 - **`re`** - Expresiones regulares para parsing de coordenadas DMS

@@ -54,12 +54,6 @@ Estos scripts son herramientas creadas para automatizar trabajos repetitivos de 
 - **Estándarización de formatos** para facilitar el entrenamiento de redes neuronales
 - **Contribución al campo** de la teledetección y análisis de imágenes satelitales
 
-### **Aplicaciones Científicas**
-- **Machine Learning**: Entrenamiento de modelos de detección de objetos
-- **Computer Vision**: Análisis automático de imágenes satelitales
-- **Geografía Aplicada**: Mapeo y análisis de infraestructura acuática
-- **Inteligencia Artificial**: Sistemas de reconocimiento de patrones espaciales
-
 ### Paso 1: Recolectar Coordenadas
 ```bash
 python 01_coordinate_collector.py

@@ -155,34 +155,11 @@ pip install Pillow>=9.0.0
 
 ¡Listo para crear tu dataset de 3000+ imágenes automáticamente! 🎉
 
-## 🏆 **Logros del Proyecto**
-
-### **Innovación Tecnológica**
-- **Automatización completa** del proceso de recolección de datos geográficos
-- **Integración eficiente** con APIs de Google Maps para captura masiva
-- **Sistema robusto** de manejo de errores y validación de datos
-- **Interfaz intuitiva** con menús interactivos y comandos de ayuda
-
-### **Contribución Científica**
-- **Metodología estandarizada** para la generación de datasets de ML
-- **Optimización de recursos** mediante el uso inteligente de APIs
-- **Documentación completa** del proceso técnico y científico
-- **Código reutilizable** para proyectos similares de teledetección
-
-## 🙏 **Agradecimientos**
-
-- **Grupo Mas Agua** por la oportunidad de realizar este Servicio Social
-- **Google Maps Platform** por proporcionar las APIs de geolocalización
-- **Comunidad Python** por las librerías de código abierto utilizadas
-- **Instructores y compañeros** que contribuyeron con feedback y sugerencias
-
 ## 📞 **Contacto y Soporte**
 
-**Autor:** Michell Alexis Policarpio Moran  
-**Proyecto:** Servicio Social en Grupo Mas Agua  
-**Área:** Inteligencia Artificial y Detección de Objetos  
-**Tecnología:** Python, APIs de Google Maps, Procesamiento de Imágenes
+**Autor:** Michell Alexis Policarpio Moran    
+**Tecnologías:** Python, APIs de Google Maps, Procesamiento de Imágenes
 
 ---
 
-*Este proyecto demuestra la aplicación práctica de tecnologías modernas de IA para resolver problemas reales en el campo de la teledetección y análisis espacial.* 🚀
+*Estos scripts demuestran la aplicación práctica de par automatizar tareas repetitivas como la recoleccion másiva de imagenes para un determinado dataset con imagenes satelitales.* 🚀

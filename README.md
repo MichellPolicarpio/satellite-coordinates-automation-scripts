@@ -1,9 +1,8 @@
-# Scripts de Automatización - Pool Detection
+# Scripts de Automatización - Captura Masiva de Coordenadas con API de Google
 
 ## 👨‍💻 **Autor del Proyecto**
 **Michell Alexis Policarpio Moran**  
 *Servicio Social en Grupo Mas Agua*  
-*Proyecto de Detección Automatizada de Piscinas mediante Inteligencia Artificial*
 
 Esta carpeta contiene **2 scripts esenciales** para automatizar la creación del dataset de detección de piscinas utilizando tecnologías modernas de procesamiento de imágenes y APIs de geolocalización.
 

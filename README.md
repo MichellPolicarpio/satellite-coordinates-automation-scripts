@@ -45,11 +45,11 @@ scripts_automatizadores/
 
 ## 🎯 **Propósito Académico y Científico**
 
-Este proyecto forma parte de un **Servicio Social** en **Grupo Mas Agua**, enfocado en el desarrollo de **sistemas de inteligencia artificial** para la **detección automatizada de piscinas** mediante análisis de imágenes satelitales.
+Estos scripts son herramientas creadas para automatizar trabajos repetitivos de recoleccion masiva de ciertos puntos de interes para la creación de un dataset para un proyecto de **Servicio Social** en **Grupo Mas Agua**, enfocado en el desarrollo de **sistemas de inteligencia artificial** para la **detección automatizada de piscinas** mediante análisis de imágenes satelitales.
 
 ### **Objetivos del Proyecto**
 - **Automatización completa** del proceso de recolección de datos geográficos
-- **Generación masiva de datasets** para entrenamiento de modelos de ML
+- **Generación acelerada de recopilacion de imagenes satelitales** para entrenamiento de modelos de ML
 - **Optimización de recursos** mediante el uso eficiente de APIs de geolocalización
 - **Estándarización de formatos** para facilitar el entrenamiento de redes neuronales
 - **Contribución al campo** de la teledetección y análisis de imágenes satelitales
@@ -59,8 +59,6 @@ Este proyecto forma parte de un **Servicio Social** en **Grupo Mas Agua**, enfoc
 - **Computer Vision**: Análisis automático de imágenes satelitales
 - **Geografía Aplicada**: Mapeo y análisis de infraestructura acuática
 - **Inteligencia Artificial**: Sistemas de reconocimiento de patrones espaciales
-
-## 🚀 Flujo de Trabajo Simplificado
 
 ### Paso 1: Recolectar Coordenadas
 ```bash

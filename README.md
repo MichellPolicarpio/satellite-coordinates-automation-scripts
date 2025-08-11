@@ -147,7 +147,7 @@ pip install Pillow>=9.0.0
 4. **Ejecuta la captura** y espera a que termine
 5. **Revisa las carpetas** `data/train/` para verificar los resultados
 
-¡Listo para crear tu dataset de 3000+ imágenes automáticamente! 🎉
+¡Listo para acelerar la recoleccion de imagenes para tu dataset! 🎉
 
 ## 📞 **Contacto y Soporte**
 

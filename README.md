@@ -156,4 +156,4 @@ pip install Pillow>=9.0.0
 
 ---
 
-*Estos scripts demuestran la aplicación práctica de par automatizar tareas repetitivas como la recoleccion másiva de imagenes para un determinado dataset con imagenes satelitales.* 🚀
+*Estos scripts demuestran la aplicación práctica para automatizar tareas repetitivas como la recoleccion másiva de imagenes para un determinado dataset con imagenes satelitales.* 🚀
